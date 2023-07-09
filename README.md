@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 👋
+
+⚡My name is Martyna and I am a Data Engineering student form Poland
+</br>
+⚡On my profile I mostly publish some of my University projects and algorithms!
 
 <!--
 **swiczi/swiczi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
