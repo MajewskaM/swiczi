@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-⚡My name is Martyna and I am a Data Engineering student form Poland
+⚡My name is Martyna and I am a Data Engineering student from Poland
 </br>
 ⚡On my profile I mostly publish some of my University projects and algorithms!
 
